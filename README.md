@@ -2,4 +2,4 @@
 - 👀 Passionate about Data Science
 - 🌱 Currently working for JLL Property Consultants
 - 💞️ I’m looking to collaborate on catalyzing growth through power of data
-- 📫 Reach me at LinkedIn : https://www.linkedin.com/in/balasaheb-mule-iit-kgp-mtech
+- 📫 Reach me on LinkedIn : https://www.linkedin.com/in/balasaheb-mule-iit-kgp-mtech
