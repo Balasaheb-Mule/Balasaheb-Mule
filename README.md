@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balasaheb-Mule
+- 👋 Hi, I’m @Balasaheb Mule
 - 👀 Passionate about Data Science
 - 🌱 Currently working for JLL Property Consultants
 - 💞️ I’m looking to collaborate on catalyzing growth through power of data
